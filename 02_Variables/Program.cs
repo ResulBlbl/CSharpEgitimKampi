@@ -33,7 +33,7 @@
 
             //Console.WriteLine();
             //Console.WriteLine("-----------------");
-            //Console.WriteLine("Yolcu TC  Kimlik No: " + passengerIdentityNumber +" "+ "-Yolcu Bilgileri: " + passengerName +" "+ passengerSurname +" "+ passengerAge +" "+ passengerDistrict +"/"+ passengerCity);
+            //Console.WriteLine("Yolcu TC  Kimlik No: " + passengerIdentityNumber + " " + "Yolcu Bilgileri: " + passengerName + " " + passengerSurname + " " + passengerAge + " " + passengerDistrict + "/" + passengerCity);
 
             //Console.Read();
 
@@ -65,7 +65,7 @@
             //int totalPrice = (shoesPrice * shoesCount) + (computerPrice * computerCount) + (chairPrice * chairCount) + (tvPrice * tvCount);
 
             //Console.WriteLine();
-            //Console.WriteLine("Toplam Tutar: "+totalPrice);
+            //Console.WriteLine("Toplam Tutar: " + totalPrice);
             #endregion
 
             #region Klavyeden Ondalık Sayı İşlemleri
